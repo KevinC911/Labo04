@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Labo04</string>
+    <string name="name_const">Nombre:</string>
+    <string name="email_const">Correo electrónico:</string>
+    <string name="phone_const">Numero de teléfono:</string>
+    <string name="home_text">Rellena la siguiente información</string>
+    <string name="name_input">Nombre</string>
+    <string name="email_input">Correo electrónico</string>
+    <string name="phone_input">Número de teléfono</string>
+    <string name="save_button">Guardar</string>
+    <string name="info_check">Confirma tu información</string>
+    <string name="share_button">Compartir</string>
+</resources>

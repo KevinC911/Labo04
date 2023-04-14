@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_margin_128">128dp</dimen>
+    <dimen name="big_text_e6">36sp</dimen>
+    <dimen name="input_width">318dp</dimen>
+    <dimen name="big_text_28">28sp</dimen>
+</resources>
